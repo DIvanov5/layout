@@ -74,17 +74,18 @@ body textarea:required:valid {
           .main-header .navbar .collapse .navbar-right-dropdown li .btn {
             padding: 7px 20px;
             font-size: 15px;
-            text-transform: uppercase; }
+            text-transform: uppercase;
+            max-width: 90px; }
           .main-header .navbar .collapse .navbar-right-dropdown li .dropdown-lr {
             min-height: 290px;
             width: 280px;
-            padding-top: 20px;
+            padding: 20px 20px 10px 20px;
             font-size: 13px; }
             .main-header .navbar .collapse .navbar-right-dropdown li .dropdown-lr .text-center .form-group input {
               font-size: 15px; }
             .main-header .navbar .collapse .navbar-right-dropdown li .dropdown-lr .text-center .form-group label {
               font-weight: 400;
-              font-size: 14px; }
+              font-size: 12px; }
             .main-header .navbar .collapse .navbar-right-dropdown li .dropdown-lr .text-center .form-group a {
               color: #555;
               text-decoration: none; }

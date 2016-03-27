@@ -33,7 +33,7 @@
 	}
 
 
-	.dropdown .dropdown-custom {
+	.dropdown-select .dropdown-custom {
 		width: 265px;
 	}
 	.s-register .wrapper {
@@ -80,14 +80,14 @@
 		right: 20px;
 	}
 
-	.dropdown .btn {
+	.dropdown-select .btn {
 		width: 295px;
 	}
-	.dropdown .btn .caret {
+	.dropdown-select .btn .caret {
 		left: 170px;
 	}
 
-		.dropdown .dropdown-custom {
+		.dropdown-select .dropdown-custom {
 		width: 295px;
 	}
 
@@ -111,15 +111,15 @@
 		padding: 19px 10px;
 	}
 
-	.dropdown .btn {
+	.dropdown-select .btn {
 		width: 100%;
 	}
 
-		.dropdown .btn .caret {
-		left: 165px;
+		.dropdown-select .btn .caret {
+		left: 177px;
 	}
 
-		.dropdown .dropdown-custom {
+		.dropdown-select .dropdown-custom {
 		width: 280px;
 	}
 	.s-about .left h2 {
